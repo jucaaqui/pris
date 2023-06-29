@@ -1,9 +1,4 @@
-# pris
-A bitmap typeface for coding.
-
-
-
-
+```
 █▀▀▀▀▀▄▄    █▀▀▀▀▀▄▄     ▀▀▀█▀▀▀     ▄▄▀▀▀▄▄ 
 █      ▀▄   █      ▀▄       █       ▄▀     ▀▄
 █       █   █       █       █       █       ▀
@@ -13,6 +8,6 @@ A bitmap typeface for coding.
 █           █   ▀▄          █       █       █
 █           █     ▀▄        █        █▄   ▄█ 
 ▀           ▀       ▀    ▀▀▀▀▀▀▀       ▀▀▀   
-
+```
 
 
